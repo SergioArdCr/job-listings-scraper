@@ -65,7 +65,7 @@ El bot abre el browser, navega a El Empleo, extrae las ofertas y guarda `Data/re
 
 ## 📊 Ejemplo de salida
 
-![alt text](image.png)
+![alt text](Data/image.png)
 
 ## 🔍 Decisiones técnicas
 
